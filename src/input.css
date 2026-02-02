@@ -1,0 +1,4 @@
+@import "tailwindcss";
+body{
+    @apply bg-green-950 text-white tracking-wider
+}
